@@ -133,13 +133,6 @@ AWS                █████░░░░░ 50%
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions and add:
->
-> `Platane/snk` action to generate a snake animation.
-
----
 
 # 📈 Goals
 
