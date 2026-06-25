@@ -25,8 +25,9 @@ class MohanVenkateshkumar:
 
         self.stack = [
             "Python", "Django", "Django REST Framework",
-            "Django Channels", "FastAPI", "PostgreSQL",
-            "Redis", "WebSockets", "JWT Auth"
+            "FastAPI", "Node.js", "Express.js", "React",
+            "JavaScript", "PostgreSQL", "SQL",
+            "Redis", "WebSockets", "JWT Auth", "Power BI"
         ]
 
         self.currently_learning = [
@@ -51,6 +52,7 @@ class MohanVenkateshkumar:
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
@@ -58,11 +60,15 @@ class MohanVenkateshkumar:
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST-ff1709?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **Databases & Caching**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Real-time & Auth**
