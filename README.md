@@ -88,10 +88,10 @@ class MohanVenkateshkumar:
 
 <div align="center">
 
-<a href="https://github.com/mohanvenkateshkumar">
+<a href="https://github.com/MOHAN123DOL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohanvenkateshkumar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
 </a>
-<a href="https://github.com/mohanvenkateshkumar">
+<a href="https://github.com/MOHAN123DOL">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanvenkateshkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
 </a>
 
@@ -103,7 +103,7 @@ class MohanVenkateshkumar:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohanvenkateshkumar&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MOHAN123DOL&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10)](https://git.io/streak-stats)
 
 </div>
 
@@ -113,7 +113,7 @@ class MohanVenkateshkumar:
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mohanvenkateshkumar&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mohanvenkateshkumar)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MOHAN123DOL&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/mohanvenkateshkumar)
 
 </div>
 
@@ -123,7 +123,7 @@ class MohanVenkateshkumar:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohanvenkateshkumar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MOHAN123DOL&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -165,10 +165,10 @@ class MohanVenkateshkumar:
 
 | Project | Stack | Highlights |
 |---------|-------|------------|
-| [**Job Portal Backend**](https://github.com/mohanvenkateshkumar) | Python · DRF · PostgreSQL · JWT | Complete REST APIs for job listings, user roles, applications & JWT authentication |
-| [**E-Commerce SaaS Platform**](https://github.com/mohanvenkateshkumar) | Django · DRF · Redis · PostgreSQL | Product & order management with role-based access control and cart functionality |
-| [**Temperature & Weather Dashboard**](https://github.com/mohanvenkateshkumar) | Python · Streamlit · REST APIs | Real-time API integration dashboard with dynamic data visualization and monitoring |
-| [**ERP Sales Dashboard**](https://github.com/mohanvenkateshkumar) | Python · Streamlit · Power BI | Streamlit-based dashboards integrating ERP data for real-time business insights |
+| [**Job Portal Backend**](https://github.com/MOHAN123DOL) | Python · DRF · PostgreSQL · JWT | Complete REST APIs for job listings, user roles, applications & JWT authentication |
+| [**E-Commerce SaaS Platform**](https://github.com/MOHAN123DOL) | Django · DRF · Redis · PostgreSQL | Product & order management with role-based access control and cart functionality |
+| [**Temperature & Weather Dashboard**](https://github.com/MOHAN123DOL) | Python · Streamlit · REST APIs | Real-time API integration dashboard with dynamic data visualization and monitoring |
+| [**ERP Sales Dashboard**](https://github.com/MOHAN123DOL) | Python · Streamlit · Power BI | Streamlit-based dashboards integrating ERP data for real-time business insights |
 
 </div>
 
@@ -221,8 +221,8 @@ class MohanVenkateshkumar:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanvenkateshkumar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mohanvenkateshkumar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanvenkateshkumar)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MOHAN123DOL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://linkedin.com/in/mohanvenkateshkumar](https://www.linkedin.com/in/mohan-v-3891331a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BZ4kdG7STTyuuKLx0syYsg%3D%3D))
 
 </div>
 
